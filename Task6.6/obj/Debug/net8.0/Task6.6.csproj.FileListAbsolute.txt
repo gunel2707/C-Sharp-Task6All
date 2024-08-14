@@ -1,0 +1,14 @@
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\bin\Debug\net8.0\Task6.6.exe
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\bin\Debug\net8.0\Task6.6.deps.json
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\bin\Debug\net8.0\Task6.6.runtimeconfig.json
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\bin\Debug\net8.0\Task6.6.dll
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\bin\Debug\net8.0\Task6.6.pdb
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\obj\Debug\net8.0\Task6.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\obj\Debug\net8.0\Task6.6.AssemblyInfoInputs.cache
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\obj\Debug\net8.0\Task6.6.AssemblyInfo.cs
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\obj\Debug\net8.0\Task6.6.csproj.CoreCompileInputs.cache
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\obj\Debug\net8.0\Task6.6.dll
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\obj\Debug\net8.0\refint\Task6.6.dll
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\obj\Debug\net8.0\Task6.6.pdb
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\obj\Debug\net8.0\Task6.6.genruntimeconfig.cache
+C:\Users\Gunel\Desktop\C#\Tasks6All\Task6.6\obj\Debug\net8.0\ref\Task6.6.dll
